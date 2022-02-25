@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "628167362734",
+    "project_id": "blindppl-21090",
+    "storage_bucket": "blindppl-21090.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628167362734:android:38d10088854f2beec7853f",
+        "android_client_info": {
+          "package_name": "com.example.blindpplapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628167362734-9esjcn5clfvle1ll38hopmaee98en4uk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCIG61Qu-wDHMwPe1Cru1PFD_6bRFD8rU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628167362734-9esjcn5clfvle1ll38hopmaee98en4uk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
